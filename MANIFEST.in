@@ -1,0 +1,4 @@
+exclude .gitignore
+include *.rst
+include LICENSE
+prune .git
