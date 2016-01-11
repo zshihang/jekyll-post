@@ -2,3 +2,4 @@ exclude .gitignore
 include *.rst
 include LICENSE
 prune .git
+recursive-exclude *.egg-info *

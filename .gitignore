@@ -1,3 +1,7 @@
 .DS_STORE
 *.pyc
 dist
+*.egg
+*.egg-info
+dist
+*.zip

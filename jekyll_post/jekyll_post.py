@@ -8,7 +8,7 @@ from tzlocal import get_localzone
 
 
 def main():
-    parser = argparse.ArgumentParser(prog='jekyll-post',
+    parser = argparse.ArgumentParser(prog='jekyll_post',
                                      description='Create a post')
     parser.add_argument('title')
     args = parser.parse_args()
