@@ -12,11 +12,11 @@ with open('README.rst') as f:
 setup(
     name = 'jekyll-post',
     license = "MIT",
-    version = '0.1.0',
+    version = '0.1.1',
     description = 'Create a post for Jekyll',
     author = 'Shihang Zhang',
     author_email = 'zhshihang@gmail.com',
-    url = 'https://github.com/sac7e/jekyll_post',
+    url = 'https://github.com/sac7e/jekyll-post',
     packages = ['jekyll_post'],
     long_description = README,
     entry_points = {
