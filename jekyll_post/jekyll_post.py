@@ -26,7 +26,7 @@ def main():
 
     # define filename
     filename_date = "{:d}-{:d}-{:d}".format(dt.year, dt.month, dt.day)
-    filename_title = ''.join(c for c in args.title.replace(' ', '-')
+    filename_title = ''.join(c.lower() for c in args.title.replace(' ', '-')
                              if c.isalnum() or c == '-') + '.md'
     filename = filename_date + '-' + filename_title
 

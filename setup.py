@@ -12,7 +12,7 @@ with open('README.rst') as f:
 setup(
     name = 'jekyll-post',
     license = "MIT",
-    version = '0.1.1',
+    version = '0.1.2',
     description = 'Create a post for Jekyll',
     author = 'Shihang Zhang',
     author_email = 'zhshihang@gmail.com',
