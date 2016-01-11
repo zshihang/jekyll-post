@@ -11,3 +11,4 @@ jekyll_post [-h] title
 Quick-Start
 -----------
 
+pip install jekyll-post
