@@ -1,12 +1,12 @@
-jekyll_post
+jekyll-post
 ===========
 
-jekyll_post is used to create a new post for blogs powered by jekyll
+jekyll-post is used to create a new post for blogs powered by jekyll
 
 Usage
 -----
 
-jekyll_post [-h] title
+jekyll-post [-h] title
 
 Quick-Start
 -----------
